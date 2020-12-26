@@ -1,2 +1,2 @@
-# Weather-Forecasters
+# IDS PROJECT
 Arumilli Meghana:PES1201701279
